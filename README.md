@@ -1,2 +1,1 @@
-# Trex---Rafael
-Jogo infinito
+# trex_corredor
